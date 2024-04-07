@@ -1,3 +1,7 @@
+# Live Link 
+
+https://basic-todo-js.vercel.app/
+
 # Description 
 
 A basic todo web app made using HTML, CSS and JS, 
